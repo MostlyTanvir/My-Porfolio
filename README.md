@@ -12,4 +12,4 @@ Things to improve -
   - Update the UI
   - many more
 
-https://mostlytanvir.github.io/My-Portfolio/
+https://tanvir-a-khan.github.io/My-Portfolio/
