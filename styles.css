@@ -115,6 +115,14 @@ span{
     color: orange;
 }
 
+.detel > button:hover{
+    background-color: orange;
+    /* background-color: #000; */
+    /* width: 1000px; */
+}
+.detel > a:hover{
+    background-color: orange;
+}
 
 .chat-button {
     display: inline-block;
